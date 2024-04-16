@@ -1,7 +1,7 @@
 # DevRel
 
 ## About
-This repository is used to collect feedback and input from Nervos Network developers and users.
+This repository is used to collect feedback and input from Nervos Network developers.
 We take all feedback seriously and use it to improve the developer experience.
 The public project linked to this repo will track important issues of the toolchains in Nervos Network.
 
